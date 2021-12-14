@@ -15,3 +15,17 @@
 
 
     ![2021-12-14_10-37-55](https://user-images.githubusercontent.com/88143329/145950961-35b34709-7d13-44a7-a9c6-bedc68da8b55.png)
+    
+    
+## Assignment 3
+
+  - Data Analysis on Online Retail
+
+  - Banana Vs Apple Data Analysis & draw chart
+
+  - Titanic Data Analysis
+
+    - Draw chart using:
+    
+      - [x] Matplotlib Library
+      - [x] Seaborn Library
