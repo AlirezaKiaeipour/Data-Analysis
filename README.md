@@ -4,6 +4,8 @@
 
   - Machine Learning w3schools
 
+  - Matplotlib w3schools
+
 
 ## Assignment 2
 
