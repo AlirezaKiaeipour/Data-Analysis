@@ -25,9 +25,3 @@
 
   - Data Analysis on Online Retail
 
-  - Titanic Data Analysis
-
-    - Draw chart using:
-    
-      - [x] Matplotlib Library
-      - [x] Seaborn Library
